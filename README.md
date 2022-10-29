@@ -8,3 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/31114603/198850953-f4218cb5-12bb-4530-bda0-43bf021e2118.png)
 
+3. Future work 
+-- Add more fundamental metrics
+-- Add other stock information such as news or annual report link
+
